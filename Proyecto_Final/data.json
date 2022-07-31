@@ -1,0 +1,51 @@
+[
+    {
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/34405f42-3a27-4af4-aaa9-57d2a8f09809/calzado-de-running-de-carretera-react-infinity-run-flyknit-2-premium-rfh6Z8.png",
+        "name": "Nike React Infinity Run Flyknit 2 Premium",
+        "category": "Running Collection",
+        "description": "El Nike React Infinity Run Flyknit 2 Premium sigue ayudándote a seguir corriendo, esta vez con colores y formas inspirados en los favoritos del invierno.La parte superior renovada utiliza tecnología Flywire para brindar soporte y transpirabilidad donde más los necesitas.La espuma alta proporciona una eficacia suave y una comodidad duradera.Sigue siendo uno de nuestros calzados más probados, diseñado para que sientas el potencial cuando tu pie entra en contacto con el pavimento.",
+        "price": 100
+    },
+    {
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/9a50da4b-eead-4330-8a03-05fa4957f765/calzado-de-running-de-carretera-air-zoom-pegasus-39-d4dvtm.png",
+        "name": "Nike Air Zoom Pegasus 39",
+        "category": "Running Collection",
+        "description": "El running es tu ritual diario; cada paso te lleva más cerca de tu objetivo personal. Ya sea en el entrenamiento o corriendo, llega a nuevas alturas con el Nike Air Zoom Pegasus 39 y su diseño intuitivo. Más ligero que el Pegasus 38 en la parte superior e ideal para usar todo el año, tiene una sensación de soporte para mantener los pies seguros; la amortiguación en la planta del pie y las unidades dobles Zoom Air (una más que el Peg 38) les dan un brillo adicional a tus pisadas. El caballo de batalla con alas en el que confías regresó. Es hora de volar.",
+        "price": 130
+    },
+    {
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/9c5d8b8a-525a-4a21-8484-a6797974f76e/calzado-de-running-en-carretera-zoomx-invincible-run-flyknit-2-gxNJpn.png",
+        "name": "Nike ZoomX Invincible Run Flyknit 2",
+        "category": "Running Collection",
+        "description": "Sigue llevando tus carreras al límite. El Nike ZoomX Invincible Run Flyknit 2 te mantiene en marcha con la misma sensación súper suave que te permite sentir el potencial cuando tu pie toca el pavimento. Creamos el calzado con una gran capacidad de respuesta rápida y nuestro más alto nivel de soporte para que te sientas seguro y competitivo. Es uno de nuestros calzados más probados y sigue estando diseñado para que te mantengas en la pista y lejos de la banca.",
+        "price": 180
+    },
+    {
+        "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7c6f9fb9-9dcf-4e7c-896b-2bbde4b42071/calzado-de-running-en-carretera-react-infinity-run-flyknit-3-1bRq75.png",
+        "name": "Nike React Infinity Run Flyknit 3",
+        "category": "Running Collection",
+        "description": "Aún nuestro calzado más probado, hecho para ayudarte a lograr tus ambiciosos objetivos de running. El Nike React Infinity Run 3 se siente cómodo y estable con una pisada suave que te lleva por rutas largas y cortas. La parte superior transpirable está diseñada para brindar contención y, a la vez, flexibilidad. Incluso añadimos más amortiguación alrededor del talón y el tobillo para brindar una sensación de soporte. Sigue corriendo; tenemos lo que necesitas.",
+        "price": 160
+    },
+    {
+        "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b7d9211c-26e7-431a-ac24-b0540fb3c00f/calzado-air-force-1-07-5QFp5Z.png",
+        "name": "Nike Air Force 1 '07",
+        "category": "Life Style",
+        "description": "El fulgor vive en el Nike Air Force 1 ’07, el modelo original de básquetbol que le da un toque novedoso a las características más recordadas: revestimientos cosidos con durabilidad, acabados impecables y la cantidad perfecta de destellos para que brilles.",
+        "price": 110
+    },
+    {
+        "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/83b063ef-c570-4cab-b137-2e2a0c8d1e4a/calzado-air-jordan-3-retro-pLX0jP.png",
+        "name": "Air Jordan 3 Retro",
+        "category": "Jordan",
+        "description": "El calzado legendario tiene un look inspirado en la herencia. El Air Jordan 3 Retro, con un giro a la combinación de colores 'Black Cement', se viste con uno de los colores más icónicos de la marca.",
+        "price": 200
+    },
+    {
+        "img": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/3afb3922-8eec-4f1d-b1ee-7fe8191e1951/jordan-why-not-5-calzado-de-b%C3%A1squetbol-jRlC7Z.png",
+        "name": "Jordan Why Not .5?",
+        "category": "Jordan",
+        "description": "Russell Westbrook es rápido. Este calzado combina su rapidez con una amortiguación actualizada, una tracción basada en datos y un sistema de ajuste completo del pie para mantenerle en control. Con un look robusto y funcional combinado con un choque intencional de colores y materiales, este modelo expresa el mantra principal de Russel, 'Why Not?'.",
+        "price": 130
+    }
+]
